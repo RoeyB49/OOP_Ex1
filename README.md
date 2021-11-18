@@ -2,7 +2,9 @@
 
 1. Sources:
 • https://www.irjet.net/archives/V3/i7/IRJET-V3I7181.pdf
+
 • https://www.kth.se/social/files/588617c2f276547fe1dbf8d2/AJanssonKUgglaLingvall_dkand15.pdf
+
 • https://github.com/00111000/Elevator-Scheduling-Simulator
 
 2. Offline Algorithm:
