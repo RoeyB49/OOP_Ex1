@@ -25,7 +25,4 @@ class Calls:
     def __repr__(self) -> str:
         return f"{self.elevCalls}"
 
-if __name__ == '__main__':
-    c = Calls()
-    c.from_csv("Calls_d.csv")
-    print(c)
+
