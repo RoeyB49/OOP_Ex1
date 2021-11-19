@@ -35,7 +35,3 @@ class Building:
         return f"{self.minFloor} , {self.maxFloor} , {self.elevators}"
 
 
-if __name__ == '__main__':
-    b = Building()
-    b.from_json("B5.json")
-    print(b)
